@@ -1,4 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome!](README.md)
+* [Slash Commands](slash-commands.md)
+
+## Get Started
+
+* [Getting Started](get-started/getting-started.md)
 
